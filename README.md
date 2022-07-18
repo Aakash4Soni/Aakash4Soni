@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**Aakash4Soni/Aakash4Soni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###👋 Hello random visitor
+I am Aakash Soni, an experienced programmer and a very passionate human.
 
-Here are some ideas to get you started:
+##💤 What I do?
+I am a student studying Electronics and Communication Engineering in Delhi Technological University. I mainly code in C++ but dweleve into other languages if given any oppurtinity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am also a full stack web developer.
+
+##📞 Contact me
+Discord: Aakash Soni-DTU#1758
+LinkedIn: https://www.linkedin.com/in/aakash-soni-8819b1200/
+Github: : https://github.com/Aakash4Soni
+Why are you reading this ?
+I have no idea.
