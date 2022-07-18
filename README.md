@@ -8,8 +8,8 @@ I am a student studying Electronics and Communication Engineering in Delhi Techn
 I am also a full stack web developer.
 
 ##📞 Contact me
-Discord: Aakash Soni-DTU#1758
-LinkedIn: https://www.linkedin.com/in/aakash-soni-8819b1200/
-Github: : https://github.com/Aakash4Soni
++Discord: Aakash Soni-DTU#1758
++LinkedIn: https://www.linkedin.com/in/aakash-soni-8819b1200/
++Github: : https://github.com/Aakash4Soni
 Why are you reading this ?
 I have no idea.
